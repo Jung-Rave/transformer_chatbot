@@ -15,7 +15,7 @@ transformerモデルの構築を行うコードです.
 推論のみを行うコードです.
 
 ## 使用上の注意
-tensoflow, tensorflow-gpu, Mecabのインストールが必要です. 
+tensoflow, tensorflow-gpu, Mecabのインストールが必要です.
 また, 開発環境はPython 3.6.2, Tensorflow 2.0.0です.
 学習データ等は権利の関係で添付していませんので, 予めご了承下さい.
 
